@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #ff00ff;
 		font-size: 3.5em;
 	}
 
@@ -2461,7 +2461,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
+		background: #00ff00;
 		color: #d1f1e9;
 		height: 100%;
 		overflow-y: auto;
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #ffff00;
 				}
 
 		#header > nav {
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #ffff00;
 					display: block;
 					padding: 0;
 				}
@@ -2569,7 +2569,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #0000ff !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2848,8 +2848,8 @@
 					}
 
 					#titleBar .toggle:before {
-						background: #4acaa8;
-						color: #ffffff;
+						background: #cccccc;
+						color: #0000ff;
 						content: '\f0c9';
 						display: block;
 						font-size: 18px;
